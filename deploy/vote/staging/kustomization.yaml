@@ -9,7 +9,7 @@ namespace: instavote
 images:
   - name: schoolofdevops/vote
     newName: amlynqtech/vote
-    newTag: main-dc10cb52-1759996833 # {"$imagepolicy": "flux-system:vote:tag"}
+    newTag: main-546f9260-1760002029 # {"$imagepolicy": "flux-system:vote:tag"}
 replicas:
   - name: vote
     count: 4
